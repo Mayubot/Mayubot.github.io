@@ -8,6 +8,12 @@ h3{
 li{
     font-family: YuMincho
 }
-body{
+h1{
+    text-align: center
+}
+h3{
+    text-align: center
+}
+li{
     text-align: center
 }
