@@ -1,25 +1,6 @@
-background-color: brown;
-
 h1{
-    font-family: Comic Sans MS 
-    
+    color:rgba(165, 42, 42, 0.774);
 }
-h3{
-    font-family: Comic Sans MS 
-    
-}
-li{
-    font-family: YuMincho
-}
-h1{
-    text-align: center
-}
-h3{
-    text-align: center
-}
-li{
-    text-align: center
-}
-ul{
-    list-style-type: none
+body{
+    background-color: rgba(255, 192, 216, 0.849)
 }
