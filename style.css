@@ -1,6 +1,116 @@
-h1{
-    color:rgba(165, 42, 42, 0.774);
-}
 body{
-    background-color: rgba(255, 192, 216, 0.849)
+    background-color:#faeee7;
+    opacity: 0.8;
+}
+
+
+.header ul{
+    display: flex; 
+}
+.header li{
+    list-style:none;
+    padding:20px 30px 20px 30px;
+    color: white; 
+}
+.header{
+    background-color: rgb(15, 43, 80, 0.8);
+    height: 70px;
+}
+
+div {
+    display: block;
+}
+
+a{
+    text-decoration: none; 
+    color: white; 
+}
+ h1{
+     font-family: Comic Sans MS 
+    
+}
+h3{
+    font-family: Comic Sans MS
+}
+
+.twice img{
+     width: 75%;
+     height: 50%;
+     float: center; 
+     margin-left: 130px
+    }
+
+ul{
+    list-style: none;
+    }
+
+.nayeon img{
+    margin-left: 330px;
+    width: 50%; 
+    height: 60%;
+}
+
+.jeongyeon img{
+    margin-left: 330px;
+    width: 50%; 
+    height: 60%;
+}
+
+.momo img{ 
+    margin-left: 330px;
+    width: 50%; 
+    height: 60%;
+}
+
+.sana img{
+    margin-left: 330px;
+    width: 50%; 
+    height: 60%;
+}
+
+.jihyo img{
+    margin-left: 330px;
+    width: 50%;
+    height: 50%; 
+}
+
+.mina img{
+    margin-left: 330px;
+    width: 50%;
+    height: 60%; 
+}
+
+.dahyun img{
+    margin-left: 330px;
+    width: 50%;
+    height: 60%
+}
+
+.chaeyoung img{
+    margin-left: 330px;
+    width: 50%;
+    height: 60%;
+}
+
+.tzuyu img{
+    margin-left: 330px;
+    width: 50%;
+    height: 60%; 
+}
+
+
+li{
+    font-family: YuMincho
+}
+h1{
+    text-align: center
+}
+h3{
+    text-align: center
+}
+li{
+    text-align: center
+}
+ul{
+    list-style-type: none
 }
